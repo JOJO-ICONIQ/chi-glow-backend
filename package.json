@@ -1,0 +1,12 @@
+{
+  "name": "chi-glow-webhook",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "express": "^4.18.2",
+    "stripe": "^14.5.0",
+    "firebase-admin": "^12.0.0"
+  },
+  "engines": { "node": "18.x" }
+}
