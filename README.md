@@ -1,4 +1,4 @@
-# chi-glow-backend
+https://github.com/JOJO-ICONIQ/chi-glow-backend/tree/main
 const express = require('express');
 const stripe = require('stripe')('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');
 const admin = require('firebase-admin');
